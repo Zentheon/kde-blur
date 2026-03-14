@@ -25,9 +25,10 @@ Fixes for blur-related Plasma bugs that haven't been patched yet.
 Better Blur will usually support at least one previous Plasma release (second number in version - 6.x). Exceptions may be made if there is a large amount of breaking 
 changes.
 
-Currently supported versions: **6.4**
+Currently supported versions: **6.6**
 
 Latest Better Blur versions for previous Plasma releases:
+- **6.4**: [715412008f548fa32c46bdeb6039fcda98f30b9c](https://github.com/can1357/kde-blur/commit/715412008f548fa32c46bdeb6039fcda98f30b9c)
 - **6.0.0 - 6.3.5**: [v1.3.6](https://github.com/taj-ny/kwin-effects-forceblur/releases/tag/v1.3.6),
 [fea9f80f27389aa8a62befb5babf40b28fed328d](https://github.com/taj-ny/kwin-effects-forceblur/tree/fea9f80f27389aa8a62befb5babf40b28fed328d)
 
